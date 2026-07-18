@@ -13,3 +13,4 @@ applyTo: "**"
 - Keep the summary concise and readable, especially for daily use.
 - When evidence is limited or conflicting, state that clearly instead of over-claiming.
 - If the user wants a deeper dive, offer a follow-up with more detail, context, or source comparison.
+- If the custom agent is unavailable or does not work well, follow these instructions directly in the chat and provide the briefing yourself.

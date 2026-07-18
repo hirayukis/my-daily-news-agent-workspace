@@ -8,6 +8,7 @@ This repository is a Copilot customization workspace for a daily-news briefing w
 - Repository instructions at `.github/instructions/daily-news.instructions.md` to guide Copilot on how to produce useful briefings.
 - A custom agent at `.github/agents/daily-news.agent.md` for a focused news workflow.
 - A slash command prompt at `.github/prompts/daily-news.prompt.md` for launching the briefing workflow quickly.
+- Always-on instructions at `.github/copilot-instructions.md` so the daily-news workflow still works even if the custom agent is unavailable.
 
 ## Next step
 
